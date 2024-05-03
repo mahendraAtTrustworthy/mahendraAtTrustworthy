@@ -5,11 +5,9 @@
 <!--  Discord Sticker  -->
 <!--   <img height=48 src=https://distok.top/stickers/817709667701751820/819128604311027752.gif /> -->
 <!--   &emsp; -->
-  <img align=left width=42 src=./catcat.gif />
+  <img align=left width=55 height=70 src=./catcat.gif />
   <!--  Typing Text  -->
-  <a href=https://readme-typing-svg.herokuapp.com/demo >
-    <img height=42 src="https://readme-typing-svg.herokuapp.com?color=%23f88469&size=16&vCenter=true&center=false&&width=250&height=36&lines=Discord%3A%20PickleNik0864;Hey+there;" />
-  </a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&random=false&width=530&lines=hi+there;thanks+for+visiting+my+profile;have+a+good+day+%3A)" alt="Typing SVG" /></a>
 </div>
 
 <!-- Color Palette (Deadlinks) -->
@@ -24,37 +22,12 @@
     <img width=300 height=118 src="https://github-readme-streak-stats.herokuapp.com/?user=picklenik&background=0000&border=0000&stroke=aaa&ring=ffc89b&fire=f88469&currStreakLabel=f88469&currStreakNum=4a9e90&sideLabels=f88469&sideNums=4a9e90&dates=aaa" />
   </a>
 </div> -->
-<br/>
 <!-- <div align=center >
   ____________
 </div> -->
-<div align=center>
-  https://typehero.dev
-  <br/>
-  https://realzoo.itsyipy.com/links
-  <br/>
-  https://returnyoutubedislike.com/links
-  <br/>
-  https://vercel.lol &emsp; https://ratelimited.lol
-  <!--  Discord Sticker  -->
-<!--   <img height=48 src=https://distok.top/stickers/817709667701751820/819128604311027752.gif />
-  &emsp; -->
-  <!--  Typing Text  -->
-<!--   <a href=https://readme-typing-svg.herokuapp.com/demo >
-    <img src="https://readme-typing-svg.herokuapp.com?color=%23f88469&size=16&vCenter=true&center=false&&width=250&height=36&lines=Discord%3A%20PickleNik%230864;Hey+there;" />
-  </a> -->
-</div>
+
 
 <!-- GitHub Stats -->
-<div align=center >
-  <!-- for extra spacing on the top -->
-  <!-- broke mobile
-  <img height=155 width=0 />
-  -->
-  <a href=https://github.com/anuraghazra/github-readme-stats >
-    <img width=420 height=142 src="https://github-readme-stats.vercel.app/api?username=picklenik&rank_icon=percentile&bg_color=0000&text_color=aaa&title_color=f88469&icon_color=ffc89b&show_icons=true&border_color=666&border_radius=24" />
-  </a>
-</div>
 
 
 <!-- Shield Badges (Kinda Ugly) -->
@@ -62,68 +35,6 @@
 <!-- ![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>) -->
 
 <!-- Tech Stack Icons (Row 1) -->
-<div align="center">
-  <!-- precisely control vertical spacing inside markdown without <br /> or <p></p> -->
-  <img height=32 width=0 />
-  <a href=https://vuejs.org >
-    <img src=./stack/vuedotjs.svg alt=vuejs width=26 height=26 />
-  </a>
-  &hairsp;
-  <a href=https://nuxtjs.org >
-    <img src=./stack/nuxtdotjs.svg alt=nuxtjs width=26 height=26 />
-  </a>
-  &hairsp;
-  <a href=https://tailwindcss.com >
-    <img src=./stack/tailwindcss.svg alt=tailwind width=26 height=26 />
-  </a>
-  &hairsp;
-  <a href=https://www.ecma-international.org/publications-and-standards/standards/ecma-262 >
-    <img src=./stack/javascript.svg alt=javascript width=30 height=26 />
-  </a>
-  &hairsp;
-  <a href=https://firebase.google.com >
-    <img src=./stack/firebase.svg alt=firebase width=26 height=26 />
-  </a>
-  &hairsp;
-  <a href=https://astro.build >
-    <img src=./stack/astro.svg alt=astro width=26 height=26 />
-  </a>
-  &hairsp;
-  <a href=https://quasar.dev >
-    <img src=./stack/quasar.svg alt=quasar width=26 height=26 />
-  </a>
-  &hairsp;
-  <a href=https://vuetifyjs.com/en >
-    <img src=./stack/vuetify.svg alt=vuetify width=26 height=26 />
-  </a>
-</div>
-<!-- Tech Stack Icons (Row 2) -->
-<div align=center >
-  <img height=32 width=0 />
-  <a href=https://linux.org >
-    <img src=./stack/linux.svg alt=linux width=22 height=22 />
-  </a>
-  &hairsp;
-  <a href=https://www.figma.com >
-    <img src=./stack/figma.svg alt=figma width=22 height=22 />
-  </a>
-  &hairsp;
-  <a href=https://www.gnu.org/software/emacs/ >
-    <img src=./stack/gnuemacs.svg alt=emacs width=22 height=22 />
-  </a>
-  &hairsp;
-  <a href=https://ubuntu.com >
-    <img src=./stack/ubuntu.svg alt=ubuntu width=22 height=22 />
-  </a>
-  &hairsp;
-  <a href=https://svelte.dev >
-    <img src=./stack/svelte.svg alt=svelte width=22 height=22 />
-  </a>
-  &hairsp;
-  <a href=https://flutter.dev >
-    <img src=./stack/flutter.svg alt=flutter width=22 height=22 />
-  </a>
-</div>
 
 <!-- <div align=center >
   ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
@@ -167,16 +78,4 @@
 </div> -->
 
 <!-- Donut gif -->
-<br />
-<br />
-<div align=right>
-  <img width=80 src=https://data.whicdn.com/images/346072768/original.gif />
-  <br/>
-  <!-- Visitor Telemetry -->
-  <img src="https://komarev.com/ghpvc/?username=picklenik" />
-  <br/>
-  <!-- > [!IMPORTANT] -->
-  <!-- > -->
-  
-  <div>Currently learning Haskell :c
 </div>
